@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Congratulations, you made it through ! This will help you review and practice everything you've learned in this section — "putting it all together" into an analysis with real-world data.
+Congratulations, you made it through ! This will help you review and practice everything you've learned so far — "putting it all together" into an analysis with real-world data.
 
 ## Objectives
 You will be able to:
